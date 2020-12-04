@@ -4,31 +4,8 @@ title:  "First Post!"
 date:   2020-12-03
 excerpt: "My Blog"
 tag:
-- markdown 
-- mathjax
-- example
-- test
-- jekyll
 comments: false
 ---
 
-## Hello Friends! 
-Testing out my new blog 
-    
-
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
+## Welcome! 
+I’ve created this site for many reasons - namely, to organize my proudest projects, to document the things I learn everyday and to have fun with it along the way. I'm hoping this site will serve as a place to both showcase my work and as a motivator that encourages me to continue learning and being creative! 
