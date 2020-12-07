@@ -7,4 +7,4 @@ tag:
 comments: false
 ---
 
-I’ve created this site for many reasons - namely, to organize my proudest projects, to document the things I learn everyday and to have fun with it along the way. I'm hoping this site will serve as a place to both showcase my work and as a motivator that encourages me to continue learning and being creative! 
+I’ve created this site for many reasons - namely, to organize my proudest projects, to document the things I learn everyday and to have fun. I'm hoping this site will serve as a place to both showcase my work and as a motivator that encourages me to never stop being creative and learning new concepts. I look forward to watching myself progress in the weeks to come 
