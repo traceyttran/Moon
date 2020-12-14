@@ -1,7 +1,7 @@
-## Resume 
-<object data="http://traceyttran.github.io/Resume_TraceyTran.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://traceyttran.github.io/Resume_TraceyTran.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="traceyttran.github.io/Resume_TraceyTran.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
+## Resume 
+Have a look at my resume: 
+<a href=http://traceyttran.github.io/Resume_TraceyTran.pdf> My Resume </a>
+
+## About 
+I'm a current new graduate from University of California, Irvine with a B.S. in Computer Science. 
