@@ -23,5 +23,6 @@ I have found that with
 
 
 > `**npm i chart.js**` 
+
 everything worked smoothly thereafter. It seems that while I am referring to it in the package.json, I still have to download it
 individually. 
