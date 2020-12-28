@@ -5,7 +5,7 @@ date: 2020-12-28
 excerpt: "I've decided to create my very own Covid Tracker App. Seeing the gravity of our global situation today, I wanted to create something 
 that would be relevant, interesting and educative to those who are ill informed about just how severe and widespread Coronavirus really is..."
 tag: react
-comment:false
+comments: false
 ---
 
 I've decided to create my very own Covid Tracker App. Seeing the gravity of our global situation today, I wanted to create something 
