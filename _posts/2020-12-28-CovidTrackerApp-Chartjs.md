@@ -17,10 +17,11 @@ be including other information like the daily amount of cases, the amount of rec
 
 Today, I encountered this bug while trying to create a Chart for my site: 
 
-Failed to compile.
-./node_modules/react-chartjs-2/es/index.js
-Module not found: Can't resolve 'chart.js'
+>`Failed to compile ../node_modules/react-chartjs-2/es/index.js Module not found: Can't resolve 'chart.js'`
+
+I have found that with 
 
 
-I have found that with **npm i chart.js** everything worked smoothly thereafter. It seems that while I am referring to it in the package.json, I still have to download it
+> `**npm i chart.js**` 
+everything worked smoothly thereafter. It seems that while I am referring to it in the package.json, I still have to download it
 individually. 
